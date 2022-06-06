@@ -1,0 +1,10 @@
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\bin\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.exe.config
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\bin\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.exe
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\bin\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.pdb
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.csproj.AssemblyReference.cache
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia_8_Sobreescritura_Ej_11_EM21018.Form1.resources
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia_8_Sobreescritura_Ej_11_EM21018.Properties.Resources.resources
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.csproj.GenerateResource.cache
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.csproj.CoreCompileInputs.cache
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.exe
+D:\Users\José\Desktop\Guia-8-Sobreescritura-Ej-11-EM21018\Guia-8-Sobreescritura-Ej-11-EM21018\obj\Debug\Guia-8-Sobreescritura-Ej-11-EM21018.pdb
